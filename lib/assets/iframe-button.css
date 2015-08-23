@@ -35,7 +35,7 @@ body {
     font-weight: 100;
 }
 
-.badge {
+.slack-count {
     display: inline-block;
     min-width: 5px;
     padding: 3px 7px;
@@ -76,13 +76,9 @@ body {
   position: relative;
   display: block;
   margin-left: 4px;
-  background-color: #fafafa;
   border: 1px solid #d4d4d4;
 }
-.slack-count:hover,
-.slack-count:focus {
-  color: #4183C4;
-}
+
 .slack-count:before,
 .slack-count:after {
   content: '';
@@ -99,7 +95,7 @@ body {
   left: -3px;
   margin-top: -4px;
   border-width: 4px 4px 4px 0;
-  border-right-color: #fafafa;
+  border-right-color: #C75C5C;
 }
 .slack-count:after {
   top: 50%;
