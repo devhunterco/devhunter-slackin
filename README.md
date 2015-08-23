@@ -2,7 +2,7 @@
 
 This is a fork from [slackin](https://github.com/rauchg/slackin)
 
-Read more about the [motivations and history](http://rauchg.com/slackin) behind Slackin.
+Read more about the [motivations and history](http://rauchg.com/slackin) behind Slackin by G. Rauchg.
 
 
 #### Deploy with Docker
